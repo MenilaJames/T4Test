@@ -1,4 +1,5 @@
 // An implementation of a Training Record as an ArrayList
+//sample
 package com.stir.cscu9t4practical1;
 
 
